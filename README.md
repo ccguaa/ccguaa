@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaranin Poosanguansiti</h1>
-<h3 align="center">A self-taught in data analyst role.</h3>
+<h3 align="center">A self-taught data analyst.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccguaa&label=Profile%20views&color=0e75b6&style=flat" alt="ccguaa" /> </p>
 
